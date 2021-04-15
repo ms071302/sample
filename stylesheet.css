@@ -117,7 +117,7 @@ header {
 }
 
 .top-wrapper {
-  background-image: url("img/top.jpg");
+  background-image: url("top.jpg");
   background-position:center center;
   background-size: cover;
   background-color:rgba(255, 255, 255, 0.3);
@@ -359,7 +359,7 @@ header {
 }
 
 .can {
-  background-image: url("img/can.jpg");
+  background-image: url("can.jpg");
   background-position:center center;
   background-size: cover;
   width: 100%;
@@ -428,7 +428,7 @@ header {
 }
 
 .question-wrapper {
-  background-image: url("img/qa.jpg");
+  background-image: url("qa.jpg");
   background-position:center center;
   background-color:rgba(255, 255, 255, 0.5);
   background-blend-mode: lighten;
