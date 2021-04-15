@@ -513,9 +513,11 @@ header {
   .qa {
     font-size: 8px;
   }
-}
-
-@media (max-width:670px) {
+    
+  .canSpan {
+    font-size: 50%;
+  }
+ 
   .last {
     font-size: 80%;
   }
